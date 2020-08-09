@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <policies>
   <policy policyType="Kafka" policyName="kafka_policy" policyTemplate="Kafka">
-    <bootstrapServers>eventstreams-kafka-bootstrap-integration.gsidemos-7ec5d722a0ab3f463fdc90eeb94dbc70-0000.us-south.containers.appdomain.cloud:443</bootstrapServers>
+    <bootstrapServers>eventstreams-kafka-bootstrap-integration.demos-7fc54721a0ab2f453fec90eeb95dac70-0000.us-south.containers.appdomain.cloud:443</bootstrapServers>
     <securityProtocol>SASL_SSL</securityProtocol>
     <saslMechanism>SCRAM-SHA-512</saslMechanism>
     <sslProtocol>TLSv1.2</sslProtocol>
